@@ -3,6 +3,12 @@ My solutions for a bench of algorithms and data stracture challenges
 
 ## Author
 
+## Some greate resources
+
+- Computational Complexity:
+
+(CS50 youtube video)[https://youtu.be/YoZPTyGL2IQ]
+
 👤 **Houda Cherkaoui**
 
 - Github: [@CalyCherkaoui](https://github.com/CalyCherkaoui)
