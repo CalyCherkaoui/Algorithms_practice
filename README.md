@@ -7,7 +7,8 @@ My solutions for a bench of algorithms and data stracture challenges
 
 - Computational Complexity:
 
-(CS50 youtube video)[https://youtu.be/YoZPTyGL2IQ]
+(CS50 youtube video)[https://youtu.be/YoZPTyGL2IQ]!
+(Time Complexity, Space Complexity, and Big O)[https://www.youtube.com/watch?v=8mBxpDWEKNw]!
 
 👤 **Houda Cherkaoui**
 

@@ -68,8 +68,7 @@ class Stack
         min_val = @stack.head.value
         cursor = @stack.head
         until cursor.next_node.nil?
-           #puts "loop entru cursor #{cursor.value}" 
-          
+           #puts "loop entry cursor #{cursor.value}" 
           cursor = cursor.next_node
           #puts "loop exit cursor #{cursor.value}" 
           if cursor.value <= min_val

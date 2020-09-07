@@ -29,8 +29,21 @@ The first argument is k, which is 3 in this case. The output is the largest numb
 
 
 def sliding_maximum(k, array)
-    # your code here
-  end
+    if k >= array.size
+      array.max
+    else
+      i = 0
+      while i <= array.size-k
+        slide = array[i..(i + k - 1)]
+        j = 0
+
+        while j < 
+
+        i += 1
+      end
+      
+    end
+end
   
-sliding_maximum(3, [1, 3, 5, 7, 9, 2])
+p sliding_maximum(3, [1, 3, 5, 7, 9, 2])
 # => [5, 7, 9, 9]
