@@ -59,6 +59,21 @@ class LinkedList
     end
   end
 
+  def list_count
+    # initialization
+    if @head.nil?
+      0
+    else
+      cursor = @head
+      count = 1
+      until cursor.next_node.nil?
+        cursor = cursor.next_node
+        count = count + 1
+      end
+      count
+    end
+  end
+
 end 
 
 class Stack
