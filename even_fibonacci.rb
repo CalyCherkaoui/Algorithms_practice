@@ -38,3 +38,5 @@ def sum_even_fib(num)
 
   cumulator
 end
+
+p sum_even_fib(100)
